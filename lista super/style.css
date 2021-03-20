@@ -1,0 +1,16 @@
+p{
+  color:palevioletred;
+  font-size: 30px;  
+}
+
+/* class */
+.manzana{
+    color: red;
+}
+.limones{
+  color:greenyellow
+}
+/* ID */
+#blueberry{
+  color: blueviolet;
+}
